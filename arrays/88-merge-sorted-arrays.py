@@ -3,7 +3,7 @@ class Solution:
         """
         Do not return anything, modify nums1 in-place instead.
         """
-
+        # Time O(m+n) and Space O(1)
         i = m - 1
         j = n - 1
         k = m + n - 1
