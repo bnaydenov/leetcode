@@ -2,6 +2,8 @@ class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         # https://walkccc.me/LeetCode/problems/0169/
 
+        # https://youtu.be/7pnhv842keE
+
         res = None
         count = 0
 
